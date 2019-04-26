@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Arnab Ghosh</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 16:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oxford Union</title>
+      <link>/talk/oxford-union/</link>
+      <pubDate>Tue, 26 Feb 2019 16:00:00 +0100</pubDate>
+      
+      <guid>/talk/oxford-union/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>St Cross College Oxford</title>
+      <link>/talk/stx/</link>
+      <pubDate>Sun, 10 Feb 2019 16:00:00 +0100</pubDate>
+      
+      <guid>/talk/stx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSIRO</title>
+      <link>/talk/csiro/</link>
+      <pubDate>Mon, 12 Feb 2018 16:00:00 +0100</pubDate>
+      
+      <guid>/talk/csiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Vision Summer School</title>
+      <link>/talk/rvss/</link>
+      <pubDate>Mon, 05 Feb 2018 16:00:00 +0100</pubDate>
+      
+      <guid>/talk/rvss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dgpose: Disentangled semi-supervised deep generative models for human body analysis</title>
