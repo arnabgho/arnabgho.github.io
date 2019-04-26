@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Academic</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Arnab Ghosh</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dgpose: Disentangled semi-supervised deep generative models for human body analysis</title>
+      <link>/publication/de-2018-dgpose/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/de-2018-dgpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message passing multi-agent gans</title>
+      <link>/publication/ghosh-2016-message/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ghosh-2016-message/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

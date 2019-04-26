@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ondrej Miksik on Academic</title>
+    <link>/authors/ondrej-miksik/</link>
+    <description>Recent content in Ondrej Miksik on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Arnab Ghosh</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/ondrej-miksik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dgpose: Disentangled semi-supervised deep generative models for human body analysis</title>
+      <link>/publication/de-2018-dgpose/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/de-2018-dgpose/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lavanya Subramanian on Academic</title>
+    <link>/authors/lavanya-subramanian/</link>
+    <description>Recent content in Lavanya Subramanian on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Arnab Ghosh</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/lavanya-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The application slowdown model: Quantifying and controlling the impact of inter-application interference at shared caches and main memory</title>
+      <link>/publication/subramanian-2015-application/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/subramanian-2015-application/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
